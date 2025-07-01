@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic Calculator/Basic Calculator.iml" filepath="$PROJECT_DIR$/Basic Calculator/Basic Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryManagementSystem/LibraryManagementSystem.iml" filepath="$PROJECT_DIR$/LibraryManagementSystem/LibraryManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotesApp/NotesApp.iml" filepath="$PROJECT_DIR$/NotesApp/NotesApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student Record Management System/Student Record Management System.iml" filepath="$PROJECT_DIR$/Student Record Management System/Student Record Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java program.iml" filepath="$PROJECT_DIR$/.idea/java program.iml" />
+    </modules>
+  </component>
+</project>
